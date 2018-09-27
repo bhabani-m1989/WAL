@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteOne">
+  <test name="FirstTest">
+    <classes>
+      <class name="org.westagilelabs.framework.LoginTest"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuiteOne]">
+  <test thread-count="5" name="FirstTest(failed)">
+    <classes>
+      <class name="org.westagilelabs.framework.LoginTest">
+        <methods>
+          <include name="myTest"/>
+        </methods>
+      </class> <!-- org.westagilelabs.framework.LoginTest -->
+    </classes>
+  </test> <!-- FirstTest(failed) -->
+</suite> <!-- Failed suite [SuiteOne] -->
