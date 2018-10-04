@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="SuiteOne" duration-ms="14874" started-at="2018-09-27T08:01:17Z" finished-at="2018-09-27T08:01:31Z">
+  <suite name="SuiteOne" duration-ms="37075" started-at="2018-10-04T08:37:22Z" finished-at="2018-10-04T08:37:59Z">
     <groups>
     </groups>
-    <test name="FirstTest" duration-ms="14874" started-at="2018-09-27T08:01:17Z" finished-at="2018-09-27T08:01:31Z">
+    <test name="FirstTest" duration-ms="37075" started-at="2018-10-04T08:37:22Z" finished-at="2018-10-04T08:37:59Z">
       <class name="org.westagilelabs.framework.LoginTest">
-        <test-method status="PASS" signature="myTest()[pri:0, instance:org.westagilelabs.framework.LoginTest@20322d26]" name="myTest" duration-ms="14824" started-at="2018-09-27T08:01:17Z" finished-at="2018-09-27T08:01:31Z">
+        <test-method status="PASS" signature="myTest()[pri:0, instance:org.westagilelabs.framework.LoginTest@78c03f1f]" name="myTest" duration-ms="37031" started-at="2018-10-04T08:37:22Z" finished-at="2018-10-04T08:37:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- myTest -->
-        <test-method status="PASS" signature="close()[pri:0, instance:org.westagilelabs.framework.LoginTest@20322d26]" name="close" is-config="true" duration-ms="1" started-at="2018-09-27T08:01:31Z" finished-at="2018-09-27T08:01:31Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:org.westagilelabs.framework.LoginTest@78c03f1f]" name="close" is-config="true" duration-ms="0" started-at="2018-10-04T08:37:59Z" finished-at="2018-10-04T08:37:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->

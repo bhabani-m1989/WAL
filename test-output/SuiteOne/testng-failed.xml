@@ -6,6 +6,7 @@
       <class name="org.westagilelabs.framework.LoginTest">
         <methods>
           <include name="myTest"/>
+          <include name="close"/>
         </methods>
       </class> <!-- org.westagilelabs.framework.LoginTest -->
     </classes>
