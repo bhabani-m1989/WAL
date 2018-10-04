@@ -8,7 +8,7 @@ import Utils.Utility;
 public class LoginPage extends BaseTest{
 	
 	
-	By email=By.xpath("//input[@id='email']");
+	By email=By.xpath("//input[@id='email1']");
 	By password= By.xpath("//input[@id='password']");
 	By signin = By.xpath("//input[@type='submit']");
 	
